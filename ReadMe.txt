@@ -1,0 +1,1 @@
+ExhaustiveDecoder uses MorseCodeInfo
